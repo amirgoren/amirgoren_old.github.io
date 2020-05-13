@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Amir Goren"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Algorithm Engineer experienced with computer vision, classical ML approachs and deep learning. ""
+  bio    : "Algorithm Engineer experienced with computer vision, classical ML approachs and deep learning."
   links:
     - label: "Linkdin"
       icon: "fas fa-fw fa-link"
